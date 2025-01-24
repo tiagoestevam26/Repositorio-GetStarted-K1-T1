@@ -24,7 +24,7 @@ Modified->> Unmodified: descartarAlterações
 Modified->> Staged: add
 
 ```
-# Por agora, é só:heart_eyes:
+# Por agora, é só :heart_eyes:
 
 
 
